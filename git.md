@@ -62,7 +62,7 @@ Branching workflow (CC-BY-SA Vincent Driessen)
     Rebasing is encouraged to preserve history from rebased branch. However, please don't rebase commits already pushed to GitHub[1].
     A git-flow super-command is available, we advice its use, see also this screencast. 
 
-    ↑ See http://progit.org/book/ch3-6.html
+    See [http://progit.org/book/ch3-6.html](http://progit.org/book/ch3-6.html)
 
 ###Social coding
 

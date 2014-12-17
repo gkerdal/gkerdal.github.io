@@ -7,7 +7,7 @@ This is the Jajuk help manual. Note that you also have tooltips on nearly every 
 
 **This manual targets Jajuk 1.10 alias <Gute Laune>**
 
- Jajuk in a nutshell
+## Jajuk in a nutshell
 
     Features
     New features highlights
@@ -22,7 +22,7 @@ This is the Jajuk help manual. Note that you also have tooltips on nearly every 
     Slimbar
     Ambiences walkthrough 
 
-Using Jajuk
+## Using Jajuk
 
     Jajuk rating system
     Editing tags and properties
@@ -40,7 +40,7 @@ Using Jajuk
     Using the slimbar
     Prepare a Party 
 
-Views
+## Views
 
     Catalog view
     Albums Table view
@@ -62,7 +62,7 @@ Views
     Webradios view
     Wikipedia view 
 
-Technical
+## Technical
 
     FAQ
     Using D-Bus (hotkeys / remote controls for Linux)
@@ -70,7 +70,7 @@ Technical
     Performance tips
     Supported formats 
 
-Legals
+## Legals
 
     Jajuk dependencies
     Apache License
