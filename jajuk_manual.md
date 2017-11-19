@@ -3,11 +3,13 @@ title: Manual - Jajuk
 layout: default
 ---
 
+# Jajuk Manual
+
 This is the Jajuk help manual. Note that you also have tooltips on nearly every widget. For support, bug report or feature request, please use the Quality Agent (menu: Help, Report a bug or feature request). 
 
 **This manual targets Jajuk 1.10 alias <Gute Laune>**
 
-## Jajuk in a nutshell
+Jajuk in a nutshell
 
     Features
     New features highlights
@@ -22,7 +24,7 @@ This is the Jajuk help manual. Note that you also have tooltips on nearly every 
     Slimbar
     Ambiences walkthrough 
 
-## Using Jajuk
+##Using Jajuk
 
     Jajuk rating system
     Editing tags and properties
@@ -40,7 +42,7 @@ This is the Jajuk help manual. Note that you also have tooltips on nearly every 
     Using the slimbar
     Prepare a Party 
 
-## Views
+##Views
 
     Catalog view
     Albums Table view
@@ -62,7 +64,7 @@ This is the Jajuk help manual. Note that you also have tooltips on nearly every 
     Webradios view
     Wikipedia view 
 
-## Technical
+##Technical
 
     FAQ
     Using D-Bus (hotkeys / remote controls for Linux)
@@ -70,7 +72,7 @@ This is the Jajuk help manual. Note that you also have tooltips on nearly every 
     Performance tips
     Supported formats 
 
-## Legals
+##Legals
 
     Jajuk dependencies
     Apache License
